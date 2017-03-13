@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name">Spinner ArrayAdapter</string>
+    <string-array name="states">
+
+        <item>Select State</item>
+        <item>Punjab</item>
+        <item>Himachal</item>
+        <item>Haryana</item>
+        <item>Assam</item>
+        <item>Kerala</item>
+        <item>Manipur</item>
+
+    </string-array>
+</resources>
